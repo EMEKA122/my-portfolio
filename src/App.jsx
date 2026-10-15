@@ -83,9 +83,8 @@ function App() { return ( <div className="app"> {/* Navigation */} <header class
       </div>
 
       <div className="about-content">
-        <div>
-          <p>
-            I am a graduate with a background in Cooperative Management
+            <p>
+            I am a graduate with a background in Cooperative and Business Management
             and a strong interest in technology and software development.
           </p>
 
@@ -256,10 +255,10 @@ function App() { return ( <div className="app"> {/* Navigation */} <header class
 
           <div>
             <span>University</span>
-            <h3>Cooperative Management</h3>
+            <h3>Cooperative and Business Management</h3>
             <p>
               Completed my university education with a degree in
-              Cooperative Management.
+              Cooperative and Business Management.
             </p>
           </div>
         </div>
